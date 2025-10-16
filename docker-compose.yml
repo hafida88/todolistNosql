@@ -9,7 +9,7 @@ services:
 
   nginx:
     image: nginx:latest
-    container_name: nginx_server
+    container_name: nginx_todolist
     ports:
       - "8080:80"
     volumes:
