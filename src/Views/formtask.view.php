@@ -35,7 +35,7 @@ require_once(__DIR__ . "/partials/head.view.php");
             <?php
             } ?>
         </div>
-        <button class="btn btn-warning" type="submit" name="addTask">Ajouter</button>
+        <button class="btn btn-warning" type="submit" name="addTask">plqsdpjdioqs</button>
     </div>
 </form>
 <?php
